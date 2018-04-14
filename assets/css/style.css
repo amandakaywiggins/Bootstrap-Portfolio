@@ -1,0 +1,106 @@
+body {
+    background-image: url("../../assets/images/marble.jpg");
+    font-family: 'Cinzel', serif;
+}
+
+#navigation {
+    background-color: #ffffff;
+    font-family: 'Cinzel', serif;
+    background-image: url("../../assets/images/rainbow.png");
+}
+
+h1 {
+    background-color: #41639b;
+    color: #ffffff;
+    font-size: em;
+}
+
+a {
+    color: #10203a;
+    margin-top: 30px;
+}
+
+h2 {
+    color: #10203a;
+    font-size: em;
+    margin-top: 10px;
+}
+
+#about-me {
+    background-color: #ddeaff;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: solid;
+    border-color: #41639b;
+    border-width: 1px;
+}
+
+hr {
+    background-color: #41639b;
+}
+
+p {
+    color: #10203a;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    line-height: 1.5em;
+    margin-top: 5px;
+}
+
+#contact-me {
+    background-color: #ddeaff;
+    margin-top: 50px;
+    border: solid;
+    border-color: #41639b;
+    border-width: 1px;
+}
+
+#social-icons {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#contact {
+    background-color: #ddeaff;
+    margin-top: 50px;
+    border: solid;
+    border-color: #41639b;
+    border-width: 1px;
+}
+
+#form-style {
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+#portfolio {
+    background-color: #ddeaff;
+    margin-top: 50px;
+    border: solid;
+    border-color: #41639b;
+    border-width: 1px;
+    margin-bottom: 100px;
+}
+
+.portfolio-image {
+    padding: 10px;
+}
+
+.textalign {
+    position: absolute;
+    bottom: 60px;
+    width: 92%;
+    background-color: #41639b;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: 'Josefin Slab', serif;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+
+#footer {
+    background-color: #ffffff;
+    background-image: url("../../assets/images/rainbow.png");
+    text-align: center;
+}
